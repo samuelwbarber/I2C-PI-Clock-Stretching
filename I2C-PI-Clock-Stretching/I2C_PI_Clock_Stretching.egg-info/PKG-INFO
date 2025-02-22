@@ -1,0 +1,13 @@
+Metadata-Version: 2.2
+Name: I2C-PI-Clock-Stretching
+Version: 0.1
+Summary: A Raspberry Pi library for interfacing with I2C devices that use clock stretching. Bypassing the hardware flaw in the built in I2C itnerface.
+Author: Sam Barber
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: POSIX :: Linux
+Requires-Dist: RPi.GPIO
+Dynamic: author
+Dynamic: classifier
+Dynamic: requires-dist
+Dynamic: summary

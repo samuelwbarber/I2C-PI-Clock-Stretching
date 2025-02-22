@@ -1,0 +1,6 @@
+setup.py
+I2C_PI_Clock_Stretching.egg-info/PKG-INFO
+I2C_PI_Clock_Stretching.egg-info/SOURCES.txt
+I2C_PI_Clock_Stretching.egg-info/dependency_links.txt
+I2C_PI_Clock_Stretching.egg-info/requires.txt
+I2C_PI_Clock_Stretching.egg-info/top_level.txt
